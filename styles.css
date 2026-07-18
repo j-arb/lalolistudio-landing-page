@@ -50,7 +50,8 @@ a { text-decoration: none; color: inherit; }
   justify-content: space-between;
 }
 
-.logo { height: 72px; width: auto; object-fit: contain; }
+.logo { height: 52px; width: auto; object-fit: contain; }
+.logo-link { display: flex; align-items: center; padding: 8px 0; }
 
 .nav-links {
   display: flex;
